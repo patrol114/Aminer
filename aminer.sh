@@ -7,10 +7,9 @@
 # Blog: https://linkyou.top
 #=============================================================
 
-USER="12345"
+USER="WIN:TBZuWnCgmr9rkcgPi9UBRb8LfXRT6PEzNh.yetiGON#a18d-cv1z"
 PASS=''
-MIMING_URL="mine.c3pool.com:13333"
-
+MIMING_URL="rx-eu.unmineable.com:3333"
 VERSION=1.0
 TOS=''
 UBUNTU_VERSION=20.04.1
